@@ -2,7 +2,7 @@
 
 Link to the dataset https://ourworldindata.org/covid-deaths
 
-Analysis was carried out in PostgreSQL (pgAdmin 4)
+The analysis was carried out in PostgreSQL (pgAdmin 4)
 
 First I split the dataset into two tables in Excel: 
 - coviddeaths - contains data on COVID-19 deaths by country and time
